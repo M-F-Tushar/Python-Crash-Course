@@ -16,13 +16,6 @@ Each chapter or project has its own directory, containing the relevant code and 
 - Keep track of progress
 - Share learning journey with others
 
-## 🧰 Technologies
-
-- Python 3.x
-- Pygame (for game project)
-- Matplotlib (for data visualization)
-- Django (for web app project)
-
 ## 📝 Notes
 
 These solutions reflect my personal learning process and may differ slightly from the book's suggestions. Feedback and suggestions are welcome!
