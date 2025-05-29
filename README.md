@@ -6,17 +6,14 @@ This repository contains my solutions to exercises and projects from *[Python Cr
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
-- [Chapter 01 – Getting Started](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2001%20-%20Getting%20Started)
-- [Chapter 02 – Variables and Simple Data Types](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2002%20-%20Variables%20and%20Simple%20Data%20Types)
-- [Chapter 03 – Introducing Lists](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2003%20-%20Introducing%20Lists)
-- [Chapter 04 – Working with Lists](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2004%20-%20Working%20with%20Lists)
-- [Chapter 05 – if Statements](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2005%20-%20if%20Statements)
-- [Chapter 06 – Dictionaries](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2006%20-%20Dictionaries)
-- [Chapter 07 – User Input and while Loops](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2007%20-%20User%20Input%20and%20while%20Loops)
-- [Chapter 08 – Functions](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%2008%20-%20Functions)
-
+- [📁 Chapter 1 – Getting Started](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%201%20-%20Getting%20Started)
+- [📁 Chapter 2 – Variables and Simple Data Types](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%202%20-%20Variables%20and%20Simple%20Data%20Types)
+- [📁 Chapter 3 – Introducing Lists](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%203%20-%20Introducing%20Lists)
+- [📁 Chapter 4 – Working With List](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%204%20-%20Working%20With%20List)
+- [📁 Chapter 5 – if Statements](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%205%20-%20if%20Statements)
+- [📁 Chapter 6 – Dictionaries](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%206%20-%20Dictionaries)
+- [📁 Chapter 7 – User Input and while Loops](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%207%20-%20User%20Input%20and%20while%20Loops)
+- [📁 Chapter 8 – Functions](https://github.com/M-F-Tushar/Python-Crash-Course/tree/main/Chapter%208%20-%20Functions)
 
 Each chapter folder includes:
 
