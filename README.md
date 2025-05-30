@@ -33,12 +33,14 @@ To explore or run the code:
    git clone https://github.com/M-F-Tushar/Python-Crash-Course.git
    cd Python-Crash-Course
 2. **Set up a virtual environment (optional but recommended)**:
-
+ ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+ ```
 3. **Install necessary packages**:
-
+ ```bash
 pip install -r requirements.txt
+ ```
 Note: Ensure you have Python 3.6 or higher installed.
 
 🛠️ Tools & Libraries Used
