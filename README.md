@@ -43,6 +43,8 @@ pip install -r requirements.txt
  ```
 Note: Ensure you have Python 3.6 or higher installed.
 
+---
+
 🛠️ Tools & Libraries Used
 Python 3.x
 
@@ -54,10 +56,14 @@ Requests – for handling HTTP requests.
 
 Unittest – for testing code.
 
+---
+
 📚 Reference
 📘 Python Crash Course, 2nd Edition by Eric Matthes
 
 🔗 Official Companion Resources
+
+---
 
 🤝 Contributing
 Contributions are welcome! If you'd like to add solutions, improvements, or corrections:
@@ -72,8 +78,12 @@ Push to the branch: git push origin feature-name.
 
 Open a pull request.
 
+---
+
 📬 Contact
 GitHub: @M-F-Tushar
+
+---
 
 ⭐ Acknowledgments
 Thanks to Eric Matthes for authoring an excellent resource for learning Python.
