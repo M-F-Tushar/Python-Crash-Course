@@ -10,6 +10,10 @@
 
 This repository contains solutions, notes, and projects for each chapter of [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes.
 
+## 📖 Quick Access
+
+- **[📋 Python Cheat Sheet](./PYTHON_CHEATSHEET.md)** - Comprehensive reference guide covering all Python concepts, keywords, and functionalities used in this repository
+
 ---
 
 
