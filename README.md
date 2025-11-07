@@ -8,17 +8,30 @@
 
 <hr style="border: 1px solid #eee; margin: 2em 0;"/>
 
+## 📑 Table of Contents
+
+- [About](#about)
+- [Quick Access](#-quick-access)
+- [Repository Structure](#-repository-structure)
+- [Chapters & Quick Links](#-chapters--quick-links)
+- [Getting Started](#-getting-started)
+- [Tools & Libraries](#️-tools--libraries)
+- [Reference](#-reference)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
+
+---
+
+## About
+
 This repository contains solutions, notes, and projects for each chapter of [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes.
 
 ## 📖 Quick Access
 
-- **[📋 Python Cheat Sheet](./PYTHON_CHEATSHEET.md)** - Comprehensive reference guide covering all Python concepts, keywords, and functionalities used in this repository
+- **[📋 Python Cheat Sheet](./Chapter%200%20-%20CheatSheet/)** - Comprehensive reference guide covering all Python concepts, keywords, and functionalities used in this repository
 
 ---
-
-
 ## 📁 Repository Structure
-
 
 <details>
 <summary><strong>Folder organization</strong> (click to expand)</summary>
@@ -29,11 +42,12 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 </details>
 
-
-
-<hr/>
+---
 
 ### 📚 Chapters & Quick Links
+
+- [Chapter 0 – Python Cheat Sheet](./Chapter%200%20-%20CheatSheet/)  
+   *Quick reference guide for Python syntax, commands, and best practices.*
 
 - [Chapter 1 – Getting Started](./Chapter%201%20-%20Getting%20Started/)  
    *Introduction to Python, installing tools, and running your first program.*
@@ -109,9 +123,6 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
-<hr/>
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
@@ -132,9 +143,6 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
----
-
 ## 🛠️ Tools & Libraries
 
 - Python 3.x
@@ -145,9 +153,6 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
----
-
 ## 📚 Reference
 
 - *Python Crash Course, 2nd Edition* by Eric Matthes
@@ -155,15 +160,9 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork, open issues, or submit pull requests for improvements or additional solutions.
-
----
-
 
 ---
 
