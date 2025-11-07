@@ -2,23 +2,38 @@
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="80" alt="Python logo"/>
+   <br/>
    <img src="https://img.shields.io/badge/Book-2nd%20Edition-blue?style=flat-square" alt="Book Edition"/>
+   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Version"/>
    <img src="https://img.shields.io/github/stars/M-F-Tushar/Python-Crash-Course?style=social" alt="GitHub stars"/>
 </p>
 
 <hr style="border: 1px solid #eee; margin: 2em 0;"/>
 
+## 📑 Table of Contents
+
+- [About](#about)
+- [Quick Access](#-quick-access)
+- [Repository Structure](#-repository-structure)
+- [Chapters & Quick Links](#-chapters--quick-links)
+- [Getting Started](#-getting-started)
+- [Tools & Libraries](#️-tools--libraries)
+- [Reference](#-reference)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
+
+---
+
+## About
+
 This repository contains solutions, notes, and projects for each chapter of [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes.
 
 ## 📖 Quick Access
 
-- **[📋 Python Cheat Sheet](./PYTHON_CHEATSHEET.md)** - Comprehensive reference guide covering all Python concepts, keywords, and functionalities used in this repository
+- **[📋 Python Cheat Sheet](./Chapter%200%20-%20CheatSheet/)** - Comprehensive reference guide covering all Python concepts, keywords, and functionalities used in this repository
 
 ---
-
-
-## � Repository Structure
-
+## 📁 Repository Structure
 
 <details>
 <summary><strong>Folder organization</strong> (click to expand)</summary>
@@ -29,11 +44,12 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 </details>
 
-
-
-<hr/>
+---
 
 ### 📚 Chapters & Quick Links
+
+- [Chapter 0 – Python Cheat Sheet](./Chapter%200%20-%20CheatSheet/)  
+   *Quick reference guide for Python syntax, commands, and best practices.*
 
 - [Chapter 1 – Getting Started](./Chapter%201%20-%20Getting%20Started/)  
    *Introduction to Python, installing tools, and running your first program.*
@@ -80,23 +96,15 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 - [Chapter 10 – Files and Exceptions](./Chapter%2010%20-%20Files%20and%20Exceptions/)  
    *Reading/writing files, handling exceptions, and storing data.*
-   - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2010%20-%20Files%20and%20Exceptions/Exercise/)
-   - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2010%20-%20Files%20and%20Exceptions/Practice/)
 
 - [Chapter 11 – Testing Your Code](./Chapter%2011%20-%20Testing%20Your%20Code/)  
    *Unit testing with unittest, test cases, and test coverage.*
-   - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2011%20-%20Testing%20Your%20Code/Exercise/)
-   - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2011%20-%20Testing%20Your%20Code/Practice/)
 
-- [Chapter 12 – A Ship that Fires Bullets](./Chapter%2012%20-%20A%20Ship%20that%20Fire's%20Bullets/)  
+- [Chapter 12 – A Ship that Fires Bullets](./Chapter%2012%20-%20A%20Ship%20that%20Fires%20Bullets/)  
    *Building a simple game with Pygame: ship movement and shooting.*
-   - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2012%20-%20A%20Ship%20that%20Fire's%20Bullets/Exercise/)
-   - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2012%20-%20A%20Ship%20that%20Fire's%20Bullets/Practice/)
 
 - [Chapter 13 – Aliens!](./Chapter%2013%20-%20Aliens!/)  
    *Expanding the game: alien fleets, collisions, and scoring.*
-   - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2013%20-%20Aliens!/Exercise/)
-   - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2013%20-%20Aliens!/Practice/)
 
 - [Chapter 14 – Scoring](./Chapter%2014%20-%20Scoring/)  
    *Adding a play button, progressive difficulty, and a scoring system to the game.*
@@ -104,13 +112,10 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 - [Chapter 15 – Generating Data](./Chapter%2015%20-%20Generating%20Data/)  
    *Data visualization with Matplotlib and Plotly, random walks, and dice simulations.*
 
-- [Chapter 16 – Downloading Data](./Chapter%2016%20-%20Downloding%20Data/)  
+- [Chapter 16 – Downloading Data](./Chapter%2016%20-%20Downloading%20Data/)  
    *Downloading, processing, and visualizing CSV/JSON data from real-world sources.*
 
 ---
-
-
-<hr/>
 
 ## 🚀 Getting Started
 
@@ -132,9 +137,6 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
----
-
 ## 🛠️ Tools & Libraries
 
 - Python 3.x
@@ -145,9 +147,6 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
----
-
 ## 📚 Reference
 
 - *Python Crash Course, 2nd Edition* by Eric Matthes
@@ -155,15 +154,9 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 
 ---
 
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork, open issues, or submit pull requests for improvements or additional solutions.
-
----
-
 
 ---
 
