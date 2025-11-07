@@ -17,7 +17,7 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 ---
 
 
-## � Repository Structure
+## 📁 Repository Structure
 
 
 <details>
@@ -88,10 +88,10 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
    - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2011%20-%20Testing%20Your%20Code/Exercise/)
    - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2011%20-%20Testing%20Your%20Code/Practice/)
 
-- [Chapter 12 – A Ship that Fires Bullets](./Chapter%2012%20-%20A%20Ship%20that%20Fire's%20Bullets/)  
+- [Chapter 12 – A Ship that Fires Bullets](./Chapter%2012%20-%20A%20Ship%20that%20Fires%20Bullets/)  
    *Building a simple game with Pygame: ship movement and shooting.*
-   - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2012%20-%20A%20Ship%20that%20Fire's%20Bullets/Exercise/)
-   - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2012%20-%20A%20Ship%20that%20Fire's%20Bullets/Practice/)
+   - [<img src="https://img.shields.io/badge/Exercise-blue?style=flat-square" height="16"/> Exercise](./Chapter%2012%20-%20A%20Ship%20that%20Fires%20Bullets/Exercise/)
+   - [<img src="https://img.shields.io/badge/Practice-green?style=flat-square" height="16"/> Practice](./Chapter%2012%20-%20A%20Ship%20that%20Fires%20Bullets/Practice/)
 
 - [Chapter 13 – Aliens!](./Chapter%2013%20-%20Aliens!/)  
    *Expanding the game: alien fleets, collisions, and scoring.*
@@ -104,7 +104,7 @@ This repository contains solutions, notes, and projects for each chapter of [Pyt
 - [Chapter 15 – Generating Data](./Chapter%2015%20-%20Generating%20Data/)  
    *Data visualization with Matplotlib and Plotly, random walks, and dice simulations.*
 
-- [Chapter 16 – Downloading Data](./Chapter%2016%20-%20Downloding%20Data/)  
+- [Chapter 16 – Downloading Data](./Chapter%2016%20-%20Downloading%20Data/)  
    *Downloading, processing, and visualizing CSV/JSON data from real-world sources.*
 
 ---
